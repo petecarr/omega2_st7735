@@ -1,0 +1,5 @@
+echo 8 > /sys/class/gpio/unexport
+echo 7 > /sys/class/gpio/unexport
+echo 6 > /sys/class/gpio/unexport
+echo 1 > /sys/class/gpio/unexport
+echo 0 > /sys/class/gpio/unexport
