@@ -1,11 +1,7 @@
-# Graphics library by Ladyada/Adafruit
-# adapted to Python (by pc)
+# Graphics library by Ladyada/Adafruit 
 # MIT license
 # Look it up. It's on the internet.
 
-INITR_GREENTAB = 0
-INITR_REDTAB   = 1
-INITR_BLACKTAB = 2
 
 ST7735_NOP     = 0x0
 ST7735_SWRESET = 0x01
@@ -52,3 +48,4 @@ ST7735_PWCTR6 = 0xFC
 
 ST7735_GMCTRP1 = 0xE0
 ST7735_GMCTRN1 = 0xE1
+
